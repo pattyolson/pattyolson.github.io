@@ -1,6 +1,6 @@
 # Patty Olson
-Designer of Knitted Accessories
+## Designer of Knitted Accessories
 
-Email: patty@pattyolson.com
-Ravelry: Patty Olson Designs <--(we should make this a hyperlink to your Ravelry page/catalog)
-Instagram: [Patty Olson Designs](https://www.instagram.com/patty_olson_designs/)
+Email: [mailto:patty@pattyolson.com](patty@pattyolson.com)
+Ravelry: [patty-olson-designs](https://ravelry.com/patty-olson-designs)
+Instagram: [@patty olson designs](https://www.instagram.com/patty_olson_designs/)
